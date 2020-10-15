@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5,
         padding: 10px 10px;
         text-transform: uppercase;
         letter-spacing: .05em;
-        color: #000;
+        color: #af89d7;
         font-size: 15px;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
@@ -413,14 +413,14 @@ h1, h2, h3, h4, h5,
       padding: 10px 20px;
       display: block;
       position: relative;
-      color: #212529; }
+      color: #af89d7; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #8bc34a; }
+        color: #af89d7; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #8bc34a; }
+        color: #af89d7; }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
